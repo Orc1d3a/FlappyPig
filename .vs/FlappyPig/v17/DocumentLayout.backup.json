@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Uniti Projects\\FlappyPig\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|d:\\uniti projects\\flappypig\\assets\\scripts\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|d:\\uniti projects\\flappypig\\assets\\scripts\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|D:\\Uniti Projects\\FlappyPig\\assets\\scripts\\bullet\\bulletspool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet\\bulletspool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|d:\\uniti projects\\flappypig\\assets\\scripts\\bullet\\bulletsspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet\\bulletsspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|d:\\uniti projects\\flappypig\\assets\\scripts\\scoreupdator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoreupdator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|d:\\uniti projects\\flappypig\\assets\\scripts\\bullet\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|d:\\uniti projects\\flappypig\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|d:\\uniti projects\\flappypig\\assets\\scripts\\player\\inputdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\inputdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|d:\\uniti projects\\flappypig\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2252587F-396E-D2A2-7308-928BF428AAAF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectPool.cs",
+              "DocumentMoniker": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\ObjectPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectPool.cs",
+              "ToolTip": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\ObjectPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectPool.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:57:03.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\Bullet\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet\\Bullet.cs",
+              "ToolTip": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\Bullet\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet\\Bullet.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:46:03.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BulletsSpawner.cs",
+              "DocumentMoniker": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\Bullet\\BulletsSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet\\BulletsSpawner.cs",
+              "ToolTip": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\Bullet\\BulletsSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet\\BulletsSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:44:51.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreUpdator.cs",
+              "DocumentMoniker": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\ScoreUpdator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreUpdator.cs",
+              "ToolTip": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\ScoreUpdator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreUpdator.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:43:45.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputDetector.cs",
+              "DocumentMoniker": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\Player\\InputDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\InputDetector.cs",
+              "ToolTip": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\Player\\InputDetector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\InputDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:28:40.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\SceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneManager.cs",
+              "ToolTip": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\SceneManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:22:45.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:26:51.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BulletsPool.cs",
+              "DocumentMoniker": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\Bullet\\BulletsPool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet\\BulletsPool.cs",
+              "ToolTip": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\Bullet\\BulletsPool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet\\BulletsPool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:16:10.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "D:\\Uniti Projects\\FlappyPig\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:28:22.775Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
